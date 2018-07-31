@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "103887624243",
+    "firebase_url": "https://finnerchat-8571f.firebaseio.com",
+    "project_id": "finnerchat-8571f",
+    "storage_bucket": "finnerchat-8571f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103887624243:android:fcfef757a832647b",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103887624243-np2ii8c67ojjf6usbuvqf07f5vgso14s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPJRWhC7eWqhSNSvHLIsKnrebA-QuBm88"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
