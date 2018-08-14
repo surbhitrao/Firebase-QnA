@@ -39,7 +39,7 @@ public class Tab2 extends Fragment  {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View v=inflater.inflate(R.layout.tab2, container, false);
         mWebView = (WebView) v.findViewById(R.id.webview);
-        mWebView.loadUrl("https://www.youtube.com/playlist?list=PLmXe0lvPfBbdyUeq0o8QP6_pxb8on6lTk");
+        mWebView.loadUrl("https://www.youtube.com/watch?v=aJOTlE1K90k&list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG");
 
         // Enable Javascript
         WebSettings webSettings = mWebView.getSettings();
